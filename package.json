@@ -1,6 +1,6 @@
 {
   "name": "lego-bricks-wcc",
-  "version": "1.0.10",
+  "version": "1.0.0",
   "private": false,
   "author": "Viking ZhangLi",
   "scripts": {
@@ -21,6 +21,8 @@
   },
   "main": "dist/lego-bricks-wcc.umd.js",
   "module": "dist/lego-bricks-wcc.esm.js",
+  "types": "dist/index.d.ts",
+
   "files": [
     "dist"
   ],
@@ -68,6 +70,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/imooc-lego/lego-components"
-  },
-  "types": "dist/index.d.ts"
+  }
 }
