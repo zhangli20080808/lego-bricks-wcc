@@ -12,6 +12,7 @@ export {
   AllComponentProps,
 } from './defaultProps';
 
+
 import LText from './components/LText';
 import LImage from './components/LImage';
 import LShape from './components/LShape';
