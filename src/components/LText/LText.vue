@@ -12,7 +12,6 @@
 import { defineComponent } from 'vue';
 import useComponentCommon from '../../hooks/useComponentCommon';
 import {
-  
   transformToComponentProps,
   textDefaultProps,
   textStylePropNames,
